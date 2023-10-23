@@ -65,7 +65,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 28/09/2023 | ✅ Concluído |[Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/tree/sprint01)
-| 02 | 26/10/2023 | 🏃 Em andamento | [Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/tree/sprint02)
+| 02 | 26/10/2023 | ✅ Concluído |[Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/tree/sprint02)
 | 03 | 23/11/2023 | 🚫 Não iniciada |
 
 </div>   
