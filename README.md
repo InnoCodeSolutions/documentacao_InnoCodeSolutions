@@ -147,11 +147,11 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
 <p>
-  → Para ter acesso a planilha com os dados e gráfico <a href="https://fatecspgov-my.sharepoint.com/:x:/g/personal/gustavo_carvalho21_fatec_sp_gov_br/EYHhekfCCWVGjcrbAh9dUcMBErhKBofVpfHzoNdkV9C2jg?e=kDRqlZ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0">clique aqui!</a>
+  → Para ter acesso a planilha com os dados e gráfico <a href="https://fatecspgov-my.sharepoint.com/:x:/g/personal/gustavo_carvalho21_fatec_sp_gov_br/EYHhekfCCWVGjcrbAh9dUcMBErhKBofVpfHzoNdkV9C2jg?e=kDRqlZ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0">clique aqui!</a> e selecione a aba correspondente.
 </p>
 
 <div  align="center">
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/burndown_sprint01.png"  />
+<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/db59911711958b24637b101684ac62e59dd3e792/burndown_sprint02.png"  />
 </div>
 
 
@@ -165,13 +165,13 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 - ### O que funcionou bem?
   - Divisão de tarefas e realização das mesmas;
-  - Realização das tarefas dentro do prazo estipulado;
-  - Criação e organização da documentação no GitHub.
+  - Atualização e organização da documentação no GitHub.
   
 - ### O que pode melhorar?
-  - A equipe teve dificuldades para a utilização do GitHub, procuraremos buscar mais conhecimento sobre a ferramenta;
-  - Dificuldades em realizar as daily's; 
-  - Não realizamos a documentação do User Stories.
+  - Dificuldades para implementar o Bootstrap ao site;
+  - Dificuldades em definir conteúdo do site; 
+  - Melhorar a comunicação da equipe;
+  - Cumprir os prazos estipulados para cada tarefa;
 
 
 → [Voltar ao topo](#topo)
