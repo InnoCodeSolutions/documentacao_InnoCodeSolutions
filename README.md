@@ -10,7 +10,6 @@
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
 <a  href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
 <a  href="#sprint_backlog">Sprint Backlog 1</a> &nbsp |&nbsp &nbsp
-<a  href="#wireframe">Wireframe</a> &nbsp |&nbsp &nbsp
 <a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
 <a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
@@ -115,23 +114,11 @@ Definição do portal para hospedagem do site em nuvem.
 
 <span  id="sprint_backlog">
 
-## :clipboard: Sprint Backlog 1
+## :clipboard: Sprint Backlog 2
 <p>A Sprint Planning foi realizada no dia 02/10/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/sprint01_backlog.png">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/66b5c6ceee109bc3e0d5c899bc1a81578bd14e1e/sprint02_backlog.png">
       <br>
-</div>
-
-→ [Voltar ao topo](#topo)
-
-<br>
-
-<span  id="wireframe">
-
-## :rice_scene: Wireframe
-
-<div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/1pagina_inicial.png">
 </div>
 
 → [Voltar ao topo](#topo)
