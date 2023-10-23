@@ -20,13 +20,6 @@
 <br>
 </p>
   
-<div align="center">
-<br>
-  
-:movie_camera: Vídeo sobre a 1ª sprint <a href="https://youtu.be/G6foH98PoDM">***aqui***</a>  
-
-<br>
-</div>
 
 <p>Para a sequencia do desenvolvimento do um site, durante esta segunda sprint, nossa equipe concentrou seus esforços no desenvolvimento do Site em HTML, CSS e Bootstrap. Que terá como o principal objetivo a crialção do site navegável.</p>
 
