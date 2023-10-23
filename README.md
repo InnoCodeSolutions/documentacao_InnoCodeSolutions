@@ -47,8 +47,6 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
 - :heavy_check_mark: **7:** Apresentação.
 
-- :heavy_check_mark: **8:** Hospedagem.
-
 
 <br>
 
@@ -95,10 +93,6 @@ Prototipagem finalizada e navegável.
 ### 7: Apresentação
 
 Elaboração da apresentação em vídeo 2ª Sprint.
-
-### 8: Hospedagem
-
-Definição do portal para hospedagem do site em nuvem.
 
 
 → [Voltar ao topo](#topo)
