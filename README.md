@@ -12,7 +12,7 @@
 <a  href="#sprint_backlog">Sprint Backlog 1</a> &nbsp |&nbsp &nbsp
 <a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
 <a  href="#prototipo">Protótipo</a> &nbsp |&nbsp &nbsp 
-<a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
+<a  href="#metricas">Métricas do time</a>
 </p>
 <p align="center">
 &nbsp |&nbsp <a  href="#sprint_retrospectiva"> Sprint Retrospectiva</a>&nbsp |&nbsp &nbsp
