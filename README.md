@@ -15,7 +15,7 @@
 <a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
 </p>
 <p align="center">
-<a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
+<a  href="#sprint_retrospectiva">| Sprint Retrospectiva |</a>
 </p>
 
 <p align="center">
