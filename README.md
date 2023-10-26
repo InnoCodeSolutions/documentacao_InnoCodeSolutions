@@ -14,6 +14,7 @@
 <p  align="center">
 <a  href="#sobre">Sobre</a> |
 <a  href="#backlogs">Product Backlog</a> |
+<a  href="#user_stories">User Stories</a> |
 <a  href="#tecnologias">Tecnologias</a> |
 <a  href="#equipe">Equipe</a>
 </p>
@@ -114,7 +115,19 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 <br>
 
-  
+<span  id="user_stories">
+
+## :scroll: User Stories
+
+<div align="center">
+<img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/ed0fb88db6f4626a1b95b56e7299567b6099b0a4/user_stories.png" alt="user_stories">
+</div>
+
+→ [Voltar ao topo](#topo)
+
+<br>
+
+<br> 
 
 <span  id="tecnologias">
 
