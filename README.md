@@ -13,6 +13,8 @@
 <a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
 <a  href="#prototipo">Protótipo</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
+</p>
+<p align="center">
 <a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
 </p>
 
