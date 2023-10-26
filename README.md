@@ -11,6 +11,7 @@
 <a  href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
 <a  href="#sprint_backlog">Sprint Backlog 1</a> &nbsp |&nbsp &nbsp
 <a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
+<a  href="#prototipo">Protótipo</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
 <a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
 </p>
@@ -117,9 +118,18 @@ Elaboração da apresentação em vídeo 2ª Sprint.
 ##  :bar_chart: KanBan
 
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/kanban_sprint01.jpeg">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/728ee20f94d4a6ccbc7a0ccb81d0fe43e9d328c0/kanban_sprint02.jpeg">
       <br>
 </div>
+
+→ [Voltar ao topo](#topo)
+
+<br>
+
+<span  id="prototipo">
+
+## :computer: Protótipo
+<p>Para ter acesso ao protótipo navegável e não finalizado basta clicar <a href="https://github.com/InnoCodeSolutions/innoCodeSolutions/tree/develop">aqui.</a></p>
 
 → [Voltar ao topo](#topo)
 
