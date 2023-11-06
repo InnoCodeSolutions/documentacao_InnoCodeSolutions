@@ -74,7 +74,9 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 <div align="center">
 <br>
   
-:movie_camera: Vídeo sobre a 1ª sprint <a href="https://youtu.be/G6foH98PoDM">***aqui***</a>  
+<p>:movie_camera: Vídeo sobre a 1ª sprint <a href="https://youtu.be/G6foH98PoDM">***aqui***</a></p>
+<p>Para ter acesso ao projeto do site acesse o passo a passo <a href="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/main/GUIA%20DE%20ACESSO%20À%20PROTÓTIPO.pdf">***aqui***</a></p>
+
 
 <br>
 </div>
