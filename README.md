@@ -111,7 +111,7 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 ## :clipboard: Sprint Backlog 1
 <p>A Sprint Planning foi realizada no dia 05/09/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/sprint01_backlog.png">
+      <img src="sprint01_backlog.png">
       <br>
 </div>
 
@@ -163,7 +163,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 </p>
 
 <div  align="center">
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/burndown_sprint01.png"  />
+<img  src="burndown_sprint01.png"  />
 </div>
 
 
