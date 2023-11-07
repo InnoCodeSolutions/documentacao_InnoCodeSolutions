@@ -101,7 +101,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
   
 
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/b6132a36e97948e565ed5e8fda75f4b45524a673/product_backlog.png"  alt="product backlog"  />
+<img  src="product_backlog.png"  alt="product backlog"  />
 
   
 
