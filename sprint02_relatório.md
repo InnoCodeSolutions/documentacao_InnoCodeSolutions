@@ -107,7 +107,7 @@ Elaboração da apresentação em vídeo 2ª Sprint.
 ## :clipboard: Sprint Backlog 2
 <p>A Sprint Planning foi realizada no dia 02/10/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/66b5c6ceee109bc3e0d5c899bc1a81578bd14e1e/sprint02_backlog.png">
+      <img src="sprint02_backlog.png">
       <br>
 </div>
 
@@ -120,7 +120,7 @@ Elaboração da apresentação em vídeo 2ª Sprint.
 ##  :bar_chart: KanBan
 
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/728ee20f94d4a6ccbc7a0ccb81d0fe43e9d328c0/kanban_sprint02.jpeg">
+      <img src="kanban_sprint02.jpeg">
       <br>
 </div>
 
@@ -150,7 +150,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 </p>
 
 <div  align="center">
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/db59911711958b24637b101684ac62e59dd3e792/burndown_sprint02.png"  />
+<img  src="burndown_sprint02.png"  />
 </div>
 
 
