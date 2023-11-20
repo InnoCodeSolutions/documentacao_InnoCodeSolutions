@@ -45,7 +45,7 @@ Este projeto tem como objetivo fornecer uma plataforma educacional abrangente de
 
 <br>
 
-Para ter acesso ao site finalizado, **clique [aqui!]**(https://innocodesolutions.github.io/innoCodeSolutions/index.html)
+Para ter acesso ao site finalizado, **clique** [aqui!](https://innocodesolutions.github.io/innoCodeSolutions/index.html)
 
 <br>
 
