@@ -100,7 +100,7 @@ Finalização da aplicação do modo claro/escuro no site, assim como responsivi
 
 <span  id="sprint_backlog">
 
-## :clipboard: Sprint Backlog 2
+## :clipboard: Sprint Backlog 3
 <p>A Sprint Planning foi realizada no dia 30/10/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
       <img src="sprint03_backlog.png">
@@ -146,7 +146,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 </p>
 
 <div  align="center">
-<img  src="burndown_sprint02.png"  />
+<img  src="burndown_sprint03.png"  />
 </div>
 
 
