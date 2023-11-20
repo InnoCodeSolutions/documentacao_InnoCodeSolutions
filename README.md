@@ -41,7 +41,9 @@ Este projeto tem como objetivo fornecer uma plataforma educacional abrangente de
 
 <br>
 
-  
+Para ter acesso ao site finalizado, clique [aqui!](https://innocodesolutions.github.io/innoCodeSolutions/index.html)   
+
+<br>
 
 :arrow_right: Status do Projeto: **Em andamento** ✔️
 
@@ -67,7 +69,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 28/09/2023 | ✅ Concluído |[Relatório](sprint01_relatório.md)
 | 02 | 26/10/2023 | ✅ Concluído |[Relatório](sprint02_relatório.md)
-| 03 | 23/11/2023 | 🚫 Não iniciada |
+| 03 | 23/11/2023 | ✅ Concluído |[Relatório](sprint03_relatório.md)
 
 </div>   
 

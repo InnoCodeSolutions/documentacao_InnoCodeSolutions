@@ -4,7 +4,7 @@
 
   
 
-<h1  align="center">Sprint 2: 02/10/2023 a 26/10/2023</h1>
+<h1  align="center">Sprint 3: 30/10/2023 a 23/11/2023</h1>
 
 <p  align="center">
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -24,7 +24,7 @@
 </p>
   
 
-<p>Para a sequencia do desenvolvimento do um site, durante esta segunda sprint, nossa equipe concentrou seus esforços no desenvolvimento do Site em HTML, CSS e Bootstrap. Que terá como o principal objetivo a crialção do site navegável.</p>
+<p>Para a sequencia do desenvolvimento do um site, durante esta terceira sprint, nossa equipe concentrou seus esforços na finalização do Site em HTML, CSS, Bootstrap e JavaScript. Que terá como o principal objetivo a finalização do site navegável e sua devida apresentação ao cliente.</p>
 
 <br>  
 
@@ -36,19 +36,19 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
   
 
-- :heavy_check_mark: **1:** Definição do conteúdo do curso;
+- :heavy_check_mark: **1:** Finalização das páginas HTML;
 
-- :heavy_check_mark: **2:** Aplicação de CCS3 e Bootstrap no site;
+- :heavy_check_mark: **2:** Finalização do formulário;
 
-- :heavy_check_mark: **3:** Separação de módulos do curso;
+- :heavy_check_mark: **3:** Atualização da Documentação no GitHub;
 
-- :heavy_check_mark: **4:** Criação do Formulário;
+- :heavy_check_mark: **4:** Apresentação;
 
-- :heavy_check_mark: **5:** Atualização da Documentação no GitHub;
+- :heavy_check_mark: **5:** Hospedagem;
 
-- :heavy_check_mark: **6:** Protótipo navegavel finalizado;
+- :heavy_check_mark: **6:** Guia de uso;
 
-- :heavy_check_mark: **7:** Apresentação.
+- :heavy_check_mark: **7:** Aplicação do modo claro/escuro.
 
 
 <br>
@@ -63,39 +63,39 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
   
 
-### 1: Definição do conteúdo do curso
+### 1: Finalização das páginas HTML
 
   
 
-Seleção de textos e livros a serem utilizados no site, assim como imagens.
+Finalização e ajustes para um site navegavel e com responsividade da página.
   
 
-### 2: Aplicação de CCS3 e Bootstrap no site
+### 2: Finalização do formulário
 
-Finalização do layout e responsividade do site utilizando o CSS e Bootstrap.
-
-
-### 3: Separação de módulos do curso
-
-Definição de quantos módulos o curso terá e subtópicos a partir de então.
+Finalização das questões e repostas e suas devidas organizações e sequencia.
 
 
-### 4: Criação do Formulário
-
-Definição do formulário a ser aplicado ao final do curso. 
-
-
-### 5: Atualização da Documentação no GitHub
+### 3: Atualização da Documentação no GitHub
 
 Atualização da documentação e organização visual no GitHub para facilitar o gerenciamento e compartilhamento de informações.
 
-### 6: Protótipo navegavel finalizado
 
-Prototipagem finalizada e navegável.
+### 4: Apresentação
 
-### 7: Apresentação
+Elaboração da apresentação em vídeo 3ª Sprint e do Projeto inteiro.
 
-Elaboração da apresentação em vídeo 2ª Sprint.
+
+### 5: Hospedagem
+
+Definição do portal para hospedagem do site em nuvem.
+
+### 6: Guia de uso
+
+Criação do guia de uso do site e seu conteúdo.
+
+### 7: Aplicação do modo claro/escuro
+
+Finalização da aplicação do modo claro/escuro no site, assim como responsividade do site e cores alteradas pelo modo.
 
 
 → [Voltar ao topo](#topo)
@@ -105,9 +105,9 @@ Elaboração da apresentação em vídeo 2ª Sprint.
 <span  id="sprint_backlog">
 
 ## :clipboard: Sprint Backlog 2
-<p>A Sprint Planning foi realizada no dia 02/10/2023, gerou os artefatos para o backlog abaixo:</p>
+<p>A Sprint Planning foi realizada no dia 30/10/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
-      <img src="sprint02_backlog.png">
+      <img src="sprint03_backlog.png">
       <br>
 </div>
 
@@ -120,7 +120,7 @@ Elaboração da apresentação em vídeo 2ª Sprint.
 ##  :bar_chart: KanBan
 
 <div align="center">
-      <img src="kanban_sprint02.jpeg">
+      <img src="kanban_sprint03.jpeg">
       <br>
 </div>
 
@@ -131,7 +131,7 @@ Elaboração da apresentação em vídeo 2ª Sprint.
 <span  id="prototipo">
 
 ## :computer: Protótipo
-<p>Para ter acesso ao protótipo navegável e não finalizado basta clicar <a href="https://github.com/InnoCodeSolutions/innoCodeSolutions/tree/develop">aqui.</a></p>
+<p>Para ter acesso ao protótipo navegável e finalizado basta clicar <a href="https://github.com/InnoCodeSolutions/innoCodeSolutions/tree/develop">aqui.</a></p>
 
 → [Voltar ao topo](#topo)
 
@@ -164,11 +164,12 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 - ### O que funcionou bem?
   - Divisão de tarefas e realização das mesmas;
-  - Atualização e organização da documentação no GitHub.
+  - Atualização e organização da documentação no GitHub;
+  - Entendimento e atualização do HTML e CSS3 assim como o JavaScript.
   
 - ### O que pode melhorar?
   - Dificuldades para implementar o Bootstrap ao site;
-  - Dificuldades em definir conteúdo do site; 
+  - Dificuldades em definir como ficaria conteúdo no site; 
   - Melhorar a comunicação da equipe;
   - Cumprir os prazos estipulados para cada tarefa;
 

@@ -24,7 +24,7 @@
 </p>
   
 
-<p>Para a sequencia do desenvolvimento do um site, durante esta segunda sprint, nossa equipe concentrou seus esforços no desenvolvimento do Site em HTML, CSS e Bootstrap. Que terá como o principal objetivo a crialção do site navegável.</p>
+<p>Para a sequencia do desenvolvimento do um site, durante esta segunda sprint, nossa equipe concentrou seus esforços no desenvolvimento do Site em HTML, CSS e Bootstrap. Que terá como o principal objetivo a criação do site navegável.</p>
 
 <br>  
 
