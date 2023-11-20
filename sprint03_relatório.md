@@ -57,11 +57,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
 ## 📲 Entregas
 
-Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog da Sprint 01, através de comunicação direta entre o P.O. e o cliente. 
-
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente.
-
-  
+Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog da Sprint 03, através de comunicação direta entre o P.O. e o cliente. 
 
 ### 1: Finalização das páginas HTML
 
