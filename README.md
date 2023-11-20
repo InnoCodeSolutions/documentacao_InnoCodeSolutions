@@ -37,17 +37,17 @@ Este projeto tem como objetivo fornecer uma plataforma educacional abrangente de
 
   
 
->  _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+>  _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_   
 
 <br>
 
-Para ter acesso ao site finalizado, clique [aqui!](https://innocodesolutions.github.io/innoCodeSolutions/index.html)   
+:arrow_right: Status do Projeto: **Concluído** ✅
 
 <br>
 
-:arrow_right: Status do Projeto: **Em andamento** ✔️
-
-  
+<p align="center">
+Para ter acesso ao site finalizado, clique [aqui!](https://innocodesolutions.github.io/innoCodeSolutions/index.html)
+</p>
 
 <br>
 
