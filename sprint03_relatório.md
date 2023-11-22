@@ -127,7 +127,7 @@ Finalização da aplicação do modo claro/escuro no site, assim como responsivi
 <span  id="prototipo">
 
 ## :computer: Protótipo
-<p>Para ter acesso ao protótipo navegável e finalizado basta clicar <a href="https://github.com/InnoCodeSolutions/innoCodeSolutions/tree/develop">aqui.</a></p>
+<p>Para ter acesso ao protótipo navegável e finalizado basta clicar <a href="https://innocodesolutions.github.io/innoCodeSolutions/">aqui.</a></p>
 
 → [Voltar ao topo](#topo)
 
