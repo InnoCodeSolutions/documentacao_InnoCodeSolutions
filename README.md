@@ -57,7 +57,7 @@ Para ter acesso ao site finalizado, **clique** [aqui!](https://innocodesolutions
 
   
 
-Cada entrega será realizada a partir da **data de conclusão**, além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+Cada entrega será realizada a partir da **data de conclusão**, além da criação de um readme.md neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 
 <div align="center">
 
