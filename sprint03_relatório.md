@@ -116,7 +116,7 @@ Finalização da aplicação do modo claro/escuro no site, assim como responsivi
 ##  :bar_chart: KanBan
 
 <div align="center">
-      <img src="kanban_sprint03.jpeg">
+      <img src="kanban_sprint03.png">
       <br>
 </div>
 
